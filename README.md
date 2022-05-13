@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @allnessjobs
-- 👀 I’m interested in Learning new technologies, helping others to get job, get updated
+- 👀 I’m interested in Learning new technologies, helping others to get job, get updated on new technological developments
 - 🌱 I’m currently learning SQL, R , Python, Java,Data Science
-- 💞️ I’m looking to collaborate on jobs and learning
+- 💞️ I’m looking to collaborate on  jobseekers and passionate learners
 - 📫 How to reach me jithesh@allnessinc.com ; 2677871316
 - if anyone looking for IT jobs please share your resumes to jithesh@allnessinc.com
 
